@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "311 Calls",
+			"path": "311 Calls"
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"311 Calls.sqlproj"
+		]
+	}
+}
