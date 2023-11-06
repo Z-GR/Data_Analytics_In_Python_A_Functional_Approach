@@ -6,4 +6,7 @@
 - Insert the data set into the Data folder
 - Execute the program
 
+#### Report
+- Please download the .pdf report for details
+
  
