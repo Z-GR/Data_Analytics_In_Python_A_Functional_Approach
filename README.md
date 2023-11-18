@@ -1,4 +1,4 @@
-# Data fragmentation and aggregation for in Python & SQL
+# Data fragmentation and aggregation in Python & SQL
 
 #### How to run
 - Install Python 3
